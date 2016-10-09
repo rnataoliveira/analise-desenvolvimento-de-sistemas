@@ -1,0 +1,1 @@
+7.	Faça o do exercício 3 do Capítulo 5, utilizando uma funções nivel(nota) que retorna o nível para uma nota.

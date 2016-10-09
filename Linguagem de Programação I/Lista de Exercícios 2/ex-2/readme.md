@@ -1,0 +1,1 @@
+2.	Modifique o programa media.py, abaixo, e encontre a média entre três notas.

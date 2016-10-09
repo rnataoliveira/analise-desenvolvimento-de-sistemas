@@ -1,0 +1,1 @@
+1.	Faça um programa em Python que dados os seguintes critérios de avaliação, informe se o aluno está APROVADO, EM EXAME ou REPROVADO enquanto entra com as notas na seguinte sequência: P1, MB1, P2, MB2 e Prova Final (esta última nota não deverá ser solicitada pelo programa se o aluno tiver mais chance de passar mesmo que tire 10 na prova final).

@@ -1,0 +1,1 @@
+14.	Uma sequência de Fibonacci é uma sequência de números onde cada número sucessivo é a soma dos dois anteriores. A sequência clássica de Fibonacci começa como: 1, 1, 2, 3, 5, 8, 13, … Escreva um programa que calcule o n-ésimo número de Fibonacci onde n é o valor que o usuário deve fornecer. Por exemplo, se n = 6, então o resultado é 8.

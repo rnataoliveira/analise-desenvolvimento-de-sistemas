@@ -1,0 +1,1 @@
+6.	Expanda a sua solução do problema anterior para permitir o cálculo de um nome completo, como "John Marvin Zelle" ou "John Jacob Jingleheimer Smith." O valor total é apenas a soma dos valores numéricos de todos os nomes.

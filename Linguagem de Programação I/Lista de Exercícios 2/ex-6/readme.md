@@ -1,0 +1,1 @@
+6.	Suponha que você tenha um plano de investimento onde você invista uma certa quantidade fixa todos os anos. Modifique o programa valorfuturo.py para que calcule o total acumulado de seu investimento. As entradas do programa será a quantidade de valor investido todos os anos, a taxa de juros e o número de anos de investimento.

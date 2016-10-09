@@ -1,0 +1,1 @@
+1.	Como discutido neste capítulo, formatação de strings pode ser usada para simplificar o programa dateconvert2.py abaixo. Refaça esse programa fazendo uso do método de formatação de string.

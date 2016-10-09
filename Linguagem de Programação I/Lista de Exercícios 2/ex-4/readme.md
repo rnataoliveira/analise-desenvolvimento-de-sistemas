@@ -1,0 +1,1 @@
+4.	Modifique o programa converte.py tal que ele calcule e imprima uma tabela de temperaturas em Celsius e o equivalente Fahrenheit de 10 em 10 graus de 0Co a 100Co.

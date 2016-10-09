@@ -1,0 +1,2 @@
+[Lista de exercícios 1](https://github.com/rnataoliveira/Análise e Desenvolvimento de Sistemas\Lógica de Programação\1º-Bimestre\LISTA DE EXERCICIO-1.pdf)  
+[Lista de exercícios 2](https://github.com/rnataoliveira/Análise e Desenvolvimento de Sistemas\Lógica de Programação\1º-Bimestre\LISTA DE EXERCICIO-2.pdf)

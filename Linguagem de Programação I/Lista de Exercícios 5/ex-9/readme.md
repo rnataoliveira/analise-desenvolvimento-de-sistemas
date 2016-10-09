@@ -1,0 +1,1 @@
+9.	Escreva um programa que conta o número de palavras em uma frase digitada pelo usuário.

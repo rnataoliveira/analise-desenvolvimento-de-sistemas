@@ -1,0 +1,1 @@
+13. Escreva um programa que aproxime o valor de π somando os termos da série: 4/1 - 4/3 + 4/5 - 4/7 + 4/9 - 4/11 + … O programa deve solicitar ao usuário o valor de n, o número de termos a somar e, então, exibir a soma dos primeiro n termos dessa série. Subtraia a aproximação do valor de math.pi para ver quão preciso ele é. 

@@ -1,0 +1,1 @@
+10.	Escreva um programa que calcula o comprimento médio das palavras em uma frase digitada pelo usuário.

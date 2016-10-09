@@ -1,0 +1,1 @@
+7.	Escreva um programa que converta temperaturas em Fahrenheit para Celsius.

@@ -1,0 +1,1 @@
+8.	Faça o exercício 4 do capítulo 5 usando uma função acrônimo(frase) que retorna um acrônimo de uma frase fornecida como string.

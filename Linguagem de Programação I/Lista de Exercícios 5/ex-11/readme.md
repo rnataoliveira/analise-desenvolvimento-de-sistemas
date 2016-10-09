@@ -1,0 +1,1 @@
+11.	Refaça um dos problemas anteriores de programação para que se torne um programa de processamento batch (usando arquivos-texto para entrada e saída).

@@ -1,0 +1,1 @@
+3.	Modifique o programa converte.py acrescentando um loop que execute 5 vezes antes de finalizar (i.e., que converta 5 temperaturas).

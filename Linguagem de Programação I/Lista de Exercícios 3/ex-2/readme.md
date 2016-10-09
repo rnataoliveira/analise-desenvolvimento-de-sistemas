@@ -1,0 +1,1 @@
+2. Escreva um programa que calcule o custo por metro quadrado de uma pizza circular, dado o seu diâmetro e preço. A fórmula da área é A = π r^2.

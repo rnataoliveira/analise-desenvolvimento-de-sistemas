@@ -1,0 +1,1 @@
+3. 3.	Uma cafeteria vende uma bebida de café por R$10.50, mais o custo do transporte. Cada pedido é enviado por R$0.86 por bebida mais R$1.50 (custo fixo para despesas gerais). Escreva um programa que calcule o custo de um pedido.

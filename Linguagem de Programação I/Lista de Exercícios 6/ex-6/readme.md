@@ -1,0 +1,1 @@
+6.	Escreva uma função para calcular n-ésimo número de Fibonacci. Veja a sua solução para o exercício 14 do capítulo 3.

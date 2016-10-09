@@ -1,0 +1,1 @@
+5.	Escreva uma função que calcula a área de um triângulo dado o comprimento de seus três lados como parâmetros. Use sua função para aumentar o seu programa do Exercício 7, Capítulo 3, para que ele também exiba a área do triângulo.

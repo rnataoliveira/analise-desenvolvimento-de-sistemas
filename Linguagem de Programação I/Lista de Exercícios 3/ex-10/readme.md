@@ -1,0 +1,1 @@
+10.	Escreva um programa para encontrar a soma dos cubos dos n primeiros números naturais, onde o valor de n é fornecido pelo usuário.

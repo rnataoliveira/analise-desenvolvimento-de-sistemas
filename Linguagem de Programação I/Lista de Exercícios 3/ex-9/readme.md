@@ -1,0 +1,1 @@
+9. 9.	Escreva um programa para encontrar a soma dos n primeiros números naturais, onde o valor de n é fornecido pelo usuário.

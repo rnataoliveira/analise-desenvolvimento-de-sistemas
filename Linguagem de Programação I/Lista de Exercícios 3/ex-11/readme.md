@@ -1,0 +1,1 @@
+11.	Escreva um programa para somar uma série de números fornecidos pelo usuário. O programa deve primeiro perguntar ao usuário quantos números serão somados. Ele deve então permitir que o usuário entre com cada número e imprimir a soma total.
